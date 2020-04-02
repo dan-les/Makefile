@@ -24,7 +24,7 @@ Przykładowe użycie pliku Makefile:
 ![Użycie Makefile](/images/makefile.PNG)
 
 
-# Kod Makefile do skopiowania 
+# Kod z pliku Makefile do skopiowania 
 
 ```bash
 all: task
