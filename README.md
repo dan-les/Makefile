@@ -7,7 +7,7 @@
 1. utwórz plik Makefile w folderze razem z plikiem o **dowolnej nazwie z rozszerzeniem "*.s"** 
    lub pobierz i wklej plik Makefile z repozytorium do właściwego folderu
 2. wpisz w konsoli `make` (w konsoli wyświetlą się wywołane instrukcje)
-3. uruchom program: `./task` (task to domyślna nazwa pliku z programem oraz plików obiektowych)
+3. uruchom program: `./task` ("task" to domyślna nazwa pliku z programem oraz plików obiektowych)
 4. wpisz w konsoli `echo $?`
 
 ## usunięcie plików obiektowych i wykonywalnych ELF
