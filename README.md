@@ -4,7 +4,7 @@
 # Instrukcja użycia pliku 'Makefile'
 
 ## kompilowanie i łączenie pliku
-1. utwórz plik Makefile w folderze razem z plikiem o **dowolnej nazwie z rozszerzeniem "*.s"** 
+1. utwórz plik Makefile w folderze razem z plikiem o **dowolnej nazwie z rozszerzeniem .s ("*.s")** 
    lub pobierz z repozytorium ([link](/Makefile)) i wklej plik Makefile do właściwego folderu
 2. wpisz w konsoli `make` (w konsoli wyświetlą się wywołane instrukcje)
 3. uruchom program: `./task` ("task" to domyślna nazwa pliku z programem oraz plików obiektowych)
