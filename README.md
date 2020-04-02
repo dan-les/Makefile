@@ -19,4 +19,6 @@ Są to:
 * `make clear`
 
 Poglądowe uzycie:
+
+
 ![Użycie Makefile](/images/makefile.PNG)
